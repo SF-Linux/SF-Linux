@@ -1,3 +1,8 @@
+<h2 align="left">Sobre mim</h2>
+<h5 align="left">Bom... sou um white hat que busca todo e qualquer conhecimento sobre novas tecnologias, IAs, e outrem.<br><br>Sou um apreciador de politicas econômicas, admiro Deus acima de tudo mas aprecio o trabalho de Ludwig von Mises, Daniel Fraga, Olavo de Carvalho, Renato Amoedo e o Daniel Mastral, além é claro de gostar de filosofia.</h5>
+
+###
+
 <h2 align="left">SF-Linux - Estatísticas</h2>
 
 ###
