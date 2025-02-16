@@ -26,7 +26,7 @@
 
 ###
 
-<h3 align="center">Contador de visitantes</h3>
+<h3 align="center">Contador de visitas</h3>
 
 ###
 
