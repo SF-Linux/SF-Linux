@@ -10,18 +10,6 @@
 
 ###
 
-<h2 align="left">SF-Linux - Estatísticas</h2>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SF-Linux&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=moltack&locale=pt-br&hide_border=true&order=1&custom_title=SF-Linux" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SF-Linux&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=moltack&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SF-Linux&radius=16&theme=gruvbox&area=true&order=5&custom_title=SF-Linux%20-%20Contribui%C3%A7%C3%B5es&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
 <div align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="40" alt="linux logo"  />
   <img width="12" />
@@ -35,6 +23,19 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
 </div>
+<h2 align="left"> </h2>
+
+###
+
+<h2 align="left">SF-Linux - Estatísticas</h2>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=SF-Linux&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=moltack&locale=pt-br&hide_border=true&order=1&custom_title=SF-Linux" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SF-Linux&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=moltack&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SF-Linux&radius=16&theme=gruvbox&area=true&order=5&custom_title=SF-Linux%20-%20Contribui%C3%A7%C3%B5es&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
+</div>
 
 ###
 
@@ -47,8 +48,17 @@
 </div>
 
 ###
-
-<h2 align="left">:)<br><br><br><br><br><br>Um pedacinho de mim</h2>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=C88A65&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Um+pedacinho+de+mim+%E2%8A%B9" alt="Typing SVG">
+  </a>
+</div>
 
 ###
 
