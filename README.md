@@ -1,3 +1,9 @@
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=C88A65&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Bem+vindo+ao+meu+perfil!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
+
 <h2 align="left">Sobre mim</h2>
 <h5 align="left">Bom... sou um white hat que busca todo e qualquer conhecimento sobre novas tecnologias, IAs, e outrem.<br><br>Sou um apreciador de politicas econômicas, admiro Deus acima de tudo mas aprecio o trabalho de Ludwig von Mises, Daniel Fraga, Olavo de Carvalho, Renato Amoedo e o Daniel Mastral, além é claro de gostar de filosofia.</h5>
 
